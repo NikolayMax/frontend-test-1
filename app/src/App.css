@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'BebasRegular';
+    src: url('fonts/bebas/BebasNeue Regular.otf');
+}
+@font-face {
+    font-family: 'BebasBold';
+    src: url('fonts/bebas/BebasNeue Bold.otf');
+}
+.flex{
+    display: flex;
+}
+.align-items-center{
+    align-items: center;
+}

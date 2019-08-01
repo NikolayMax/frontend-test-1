@@ -1,0 +1,67 @@
+.form-wrapper{
+    border: 10px solid #ebebeb;
+    background-color: #f8f8f8;
+    max-width: 600px;
+    margin: auto;
+    padding: 10px;
+}
+.form-select-wrapper{
+    padding: 20px 0px;
+    justify-content: center;
+}
+.form-total-wrapper{
+    text-align: center;
+}
+.form-total-buy{
+    background-color: #33a844;
+    color: #fff;
+    margin: auto;
+    padding: 15px 60px;
+    border-radius: 25px;
+    display: inline-block;
+    text-transform: uppercase;
+}
+.form-total-sum{
+    font-family: BebasBold;
+    color: gray;
+    font-size: 26px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+.form-total-count{
+    color: #0294bf;
+}
+.form-total-val{
+    font-size: 16px;
+    vertical-align: text-top
+}
+.form-total-selected-item {
+    margin: 25px 0px;
+    color: #0294bf;
+    font-size: 20px;
+}
+.box{
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+
+}
+.container{
+    position:relative;
+    left:-1px;
+    top:-1px;
+    width: 300px;
+    height: 300px;
+    border:1px solid;
+    border-radius:50%;
+}
+
+.inner__block {
+    width: 30px;
+    height: 30px;
+    border:1px solid;
+    border-radius:50%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
